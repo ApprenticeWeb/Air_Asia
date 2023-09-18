@@ -11,4 +11,4 @@
 ### Главная страница
 На главной страницы сайта собрана ознакомительная информация о турах и о компании.
 Имеется пару слайдеров с информацией о турах.
-![main]()
+![main](https://github.com/ApprenticeWeb/Air_Asia/blob/main/picture_for_github/AirAsiaMain.png)
